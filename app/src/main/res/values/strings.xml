@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="button_1">SANDWICHES</string>
+    <string name="button_2">SOBRE NOSOTROS</string>
+    <string name="image_1">Pork</string>
+    <string name="nosotros">SOMOS UNA EMPRESA DEDICADA A LA PRODUCCION DE SANDWICHES DE CARNE DE PUERCO,CON MAS DE 100 AÑOS DE ANTIGUEDAD DANDO SATISFACCION A
+        NUESTROS CLIENTES</string>
+
+</resources>
